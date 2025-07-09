@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'UnifrakturCook';
+  src: url('./fonts/UnifrakturCook-Regular.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  background-color: #000000;
+  color: #00FF00;
+  font-family: 'UnifrakturCook', serif;
+  padding: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
